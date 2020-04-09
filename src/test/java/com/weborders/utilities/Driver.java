@@ -17,9 +17,9 @@ public class Driver {
 
     }
 
-    /**synchronized makes method thread safe. it ensures that only 1 thread can use it at the time
+    /**synchronized makes method thread safe. It ensures that only 1 thread can use it at the time.
      *
-     * thread safety reduces performance but it makes everything safe
+     * Thread safety reduces performance but it makes everything safe.
      *
      * @return
      */
